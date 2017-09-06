@@ -12,6 +12,7 @@ Code quality issues: CPD: This extension contains duplicated code.
 <h6>Additional Comments:<h6>
 UI/Component/Listing/Columns.php duplicates Magento 2's (module-catalog) version of the same file -- use ClassPreferences to avoid duplicating Magento's code.
 
+
 Our Magento 2 extension development team also has faced the same issue several times. It has compelled us to find out a code duplication analysis program. Thus, we can find all instances of the duplicated code in the code documents of the Magento 2 extensions in question.
 Unfortunately, the market was devoid of ready to use the script. Therefore, our hard working Magento 2 developers have developed a user-friendly tailor-made program to find the traces of any duplicate code existing in the Magento 2 extension, module, or code snippets uploaded along with extension package.
 Our duplicate code analysis tool for Magento 2 extension is a highly simplified interface available 
