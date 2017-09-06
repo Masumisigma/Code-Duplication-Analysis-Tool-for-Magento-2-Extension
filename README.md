@@ -1,5 +1,5 @@
 
-# Marketplace Content for How to Use Code Duplication Analysis Tool for Magento® 2 
+# How to Use Code Duplication Analysis Tool for Magento® 2 
 
 <h2>Introduction</h2>
 
