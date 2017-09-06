@@ -10,23 +10,20 @@ The most crucial part of Magento marketplace EQP check under mentioned section i
 
 Therefore, code duplication is one of the breaches of the quality parameters, and Magento 2 extension developers are scrappy to know how to save from error generation notification and subsequent rejection of Magento 2 extension submission with following email content:
 
-
-Code quality issues: CPD: This extension contains duplicated code.
-<h6>Additional Comments:<h6>
-UI/Component/Listing/Columns.php duplicates Magento 2's (module-catalog) version of the same file -- use ClassPreferences to avoid duplicating Magento's code.
-
+<i><b>Code quality issues: CPD: This extension contains duplicated code.</b><br />
+Additional Comments: UI/Component/Listing/Columns.php duplicates Magento 2's (module-catalog) version of the same file -- use ClassPreferences to avoid duplicating Magento's code.</i>
 
 Our Magento 2 extension development team also has faced the same issue several times. It has compelled us to find out a code duplication analysis program. Thus, we can find all instances of the duplicated code in the code documents of the Magento 2 extensions.
 
 Unfortunately, the market was devoid of ready to use the script. Therefore, our Magento 2 developers have developed a user-friendly tailor-made program to find the traces of any duplicate code existing in the Magento 2 module or code snippets uploaded along with extension package.
 
-Our duplicate code analysis tool for Magento 2 extension is a highly simplified interface available 
-A - Online as well as 
-B - Working on your site / your server 
+Our duplicate code analysis tool for Magento 2 extension is a highly simplified interface available <br />
+A - Online as well as <br />
+B - Working on your site / your server <br />
 
 <h2>A. How to use tool online</h2>
-This tool is available to explore more on:
-http://codeanalysis.labs.mconnectmedia.com/
+This tool is available to explore more on http://codeanalysis.labs.mconnectmedia.com/
+<br />
 Please, visit our online/web interface and follow the required steps to get your Magento 2 extension code duplication analysis done. It is as easy as to upload and click a button to see the results.
 
 <h2>B. How to use tool on your site</h2>
