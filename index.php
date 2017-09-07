@@ -232,17 +232,17 @@ if(isset($findfileinreport) && !empty($findfileinreport))
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Code Duplication Analysis Tool for Magento&reg; 2 by M-Connect Media" />
     <meta property="og:description" content="Magento 2 extension developers can get rid of code quality issues using code duplication analysis tool developed by M-Connect Media" />
-    <meta property="og:image" content="http://codeanalysis.labs.mconnectmedia.com/images/mcs-logo.png" />
+    <meta property="og:image" content="http://codeanalysis.labs.mconnectmedia.com/images/banner.png" />
     
     <!-- simplesharebuttons.com/plus twitter share details -->
     <meta name="twitter:title" content="Code Duplication Analysis Tool for Magento&reg; 2 by M-Connect Media">
     <meta name="twitter:description" content="Magento 2 extension developers can get rid of code quality issues using code duplication analysis tool developed by M-Connect Media">
-    <meta name="twitter:image:src" content="http://codeanalysis.labs.mconnectmedia.com/images/mcs-logo.png">
+    <meta name="twitter:image:src" content="http://codeanalysis.labs.mconnectmedia.com/images/banner.png">
     
     <!-- simplesharebuttons.com/plus google+ share details -->
     <meta itemprop="name" content="Code Duplication Analysis Tool for Magento&reg; 2 by M-Connect Media">
     <meta itemprop="description" content="Magento 2 extension developers can get rid of code quality issues using code duplication analysis tool developed by M-Connect Media">
-    <meta itemprop="image" content="http://codeanalysis.labs.mconnectmedia.com/images/mcs-logo.png">
+    <meta itemprop="image" content="http://codeanalysis.labs.mconnectmedia.com/images/banner.png">
     
     <link  rel="icon" type="image/x-icon" href="http://codeanalysis.labs.mconnectmedia.com/images/favicon-16x16.png" />
 
@@ -467,7 +467,7 @@ if(isset($findfileinreport) && !empty($findfileinreport))
                             <div class="notes">
                                 <h4>We Love to Share it with Magento&reg; Developer Community:</h4>
                                 <ul class="notes-list">
-                                    <li>We made this tool available for download on Github and also allocated a team to periodically check for any listed bug or issues from any individual or agency from Magento&reg; community. We’re best known for support and always ready for the same.</li>
+                                    <li>We made this tool available for download on <a target="_blank" href="https://github.com/mconnectmedia/Code-Duplication-Analysis-Tool-for-Magento-2-Extension">Github</a> and also allocated a team to periodically check for any listed bug or issues from any individual or agency from Magento&reg; community. We’re best known for support and always ready for the same.</li>
                                 </ul>
                             </div>
                             <p class="title-text"><strong>As said well, sharing is caring! </strong></p>
