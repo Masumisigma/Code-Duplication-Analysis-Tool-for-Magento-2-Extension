@@ -37,11 +37,13 @@ We have set following prerequisites to install the tool locally on your site or 
 2.	It requires minimum Magento 2.x.x vanilla codebase to match with your current code.
 
 <h2>C. How to install the tool</h2>
-Download the "Code Duplication Analysis Tool" source code to your local machine. You may find folder structure, as depicted below. <br />
+Download the "Code Duplication Analysis Tool" source code to your local machine. You may find folder structure, as depicted below.
+<br />
 Steps:<br />
-1.	Now, create a folder in Magento root directory and named it as "codeduplication."<br /><br />
-2.	Afterwards, place the "Code Duplication Analysis Tool" files in "codeduplication" folder.<br /><br />
+1.	Now, create a folder in Magento root directory and named it as "codeduplication."<br />
+2.	Afterwards, place the "Code Duplication Analysis Tool" files in "codeduplication" folder.<br />
 3.	It requires to copy the files and folders from the Vendor > ‘Magento’ folder to "Magento-versions" folder. However, we already have created all version zip file from - http://codeanalysis.labs.mconnectmedia.com/download.php <br />
+
 <img src="http://codeanalysis.labs.mconnectmedia.com/github/m2version.png" />
 
 4.	The next step is to assign 0777 permission to following folders <br />
