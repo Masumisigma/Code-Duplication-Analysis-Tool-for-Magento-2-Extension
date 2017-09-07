@@ -4,7 +4,7 @@ Magento team at official Magento platform is always issuing alerts under Magento
 
 The process is just to make sure that end-users who are downloading and installing the marketplaces extension products on their websites must work flawlessly.
 
-The current article introduces one of the necessary EQP steps of Magento marketplace quality checking program, which can easily disapprove an extension by marketplace whenever the prescribed code standards do not meet the section 3.1 and 9.1b of marketplace agreement.  
+This article introduces one of the necessary EQP steps of Magento marketplace quality checking program, which can easily disapprove an extension by marketplace whenever the prescribed code standards do not meet the section 3.1 and 9.1b of marketplace agreement.  
 
 The most crucial part of Magento marketplace EQP check under mentioned section is Code Duplication. Even if a single line of code found as duplicated by EQP. It may result in the violation of the guidelines and extension might be disapproved immediately.
 
