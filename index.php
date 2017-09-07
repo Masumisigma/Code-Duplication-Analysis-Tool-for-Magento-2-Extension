@@ -460,7 +460,7 @@ if(isset($findfileinreport) && !empty($findfileinreport))
 									
 								</li>
 							</ul>
-                            <p class="title-text">We would like to thank you for using our tool. </p>
+                            <p class="title-text">Thank you for using our tool. </p>
                             <hr>
                             <p class="title-text"><strong>Have any query? </strong></p>
                             <p class="title-text">Please feel free to <a href="https://www.mconnectmedia.com/contact" target="_blank" >Contact Us</a> at any moment and from anywhere</p>
